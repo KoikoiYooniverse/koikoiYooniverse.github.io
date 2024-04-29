@@ -7,9 +7,12 @@
 - [x] new repository with accname.github.io
 - [x] image 
 
+[hello world](https://koikoiyooniverse.github.io/hello-world/)
+
 ## YOLO
 
 ### i think you should have a look at my fav lil egg
 
 ![gudetama](https://upload.wikimedia.org/wikipedia/en/b/b1/Gudetama_from_Sanrio.jpg)
-[hello world](https://koikoiyooniverse.github.io/hello-world/)
+
+
