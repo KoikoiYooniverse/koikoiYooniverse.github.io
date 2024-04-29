@@ -9,8 +9,6 @@
 
 ## YOLO
 
-## Koikoiyooniverse
-
 ### i think you should have a look at my fav lil egg
 
 ![gudetama](https://upload.wikimedia.org/wikipedia/en/b/b1/Gudetama_from_Sanrio.jpg)
