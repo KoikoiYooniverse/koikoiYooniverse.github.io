@@ -5,7 +5,13 @@
 - [x] first name 1st level 1-1
 - [x] make github account
 - [x] new repository with accname.github.io
-- [x] image 
+- [x] image
+- [x] Github
+- [x] Repository x2
+- [x] a image
+- [x] link to hello world 
+- [x] add to index.html of hello world
+
 
 [hello world](https://koikoiyooniverse.github.io/hello-world/)
 
