@@ -17,7 +17,7 @@
 
 [rubric link](https://koikoiyooniverse.github.io/index.html-file/)
 
-[Yooniworld](https://koikoiyooniverse.github.io/hello-world/)
+[Tea Eggs](https://koikoiyooniverse.github.io/hello-world/)
 
 ## YOLO
 
