@@ -14,9 +14,25 @@
 
 
 [rubric link](https://koikoiyooniverse.github.io/index.html-file/)
+
 [Tea eggs](https://koikoiyooniverse.github.io/Tea-Eggs/)
+
 [Braised pork belly](https://koikoiyooniverse.github.io/Braised-pork-belly/)
+
 [Shen jian bao](https://koikoiyooniverse.github.io/Shen-jian-bao/)
+
+[Egg frid rice](https://koikoiyooniverse.github.io/Egg-fried-rice/)
+
+[Tomato egg drop soup](https://koikoiyooniverse.github.io/Tomato-egg-drop-soup/)
+
+[Scallion oil noodles](https://koikoiyooniverse.github.io/Scallion-oil-noodles/)
+
+[Chinese sticky rice](https://koikoiyooniverse.github.io/Chinese-sticky-rice/)
+
+[Fan tuan](https://koikoiyooniverse.github.io/Fan-tuan/)
+
+
+
 
 
 
